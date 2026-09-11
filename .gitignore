@@ -1,0 +1,26 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# idea
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# vscode
+.vscode/
+.factorypath
+
+# other
+eclipse.classpath
+escape.classpath
+R.jar
